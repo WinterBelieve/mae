@@ -1,0 +1,7 @@
+# 忽略模型輸出資料夾
+output_dir/
+# 忽略擷取後的病患特徵
+brain_extracted_features/
+# 忽略所有 tensorboard log 檔及 tfevents 檔
+log_dir/
+*.tfevents.*
